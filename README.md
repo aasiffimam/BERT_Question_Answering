@@ -9,5 +9,5 @@ Libraries used
 
 
 Steps to use the note book.
-1. Enter the answer referenc text
+1. Enter the answer reference text
 2. Ask the question
